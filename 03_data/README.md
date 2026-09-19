@@ -1,1 +1,1 @@
-# Data\n\nThis folder is for source or cleaned ASEAN public-health data where redistribution is permitted, together with the data dictionary and preparation notes.\n
+This folder is for source or cleaned ASEAN public-health data where redistribution is permitted, together with the data dictionary and preparation notes.
