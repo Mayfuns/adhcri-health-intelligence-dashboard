@@ -1,1 +1,2 @@
-# Dashboard\n\nThis folder is for the three final ADHCRI Health Intelligence Power BI dashboard screenshots:\n\n- ASEAN Public Health Overview\n- Disease, Nutrition & Child Health Risk\n- Healthcare Capacity & Investment\n
+This folder is for the three final ADHCRI Health Intelligence Power BI dashboard screenshots,
+ASEAN Public Health Overview, Disease, Nutrition & Child Health Risk\n- Healthcare Capacity & Investment\n
