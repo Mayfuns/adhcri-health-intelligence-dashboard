@@ -25,6 +25,20 @@ The project was developed under the **ASEAN Digital Health and Climate Resilienc
 
 **Which ASEAN countries face the greatest public-health risks, and where should policymakers investigate intervention and investment priorities?**
 
+## Dashboard preview
+
+### Page 1 — ASEAN Public Health Overview
+
+![ASEAN Public Health Overview](01_dashboard/Dashboard%20Images/Page%201.png)
+
+### Page 2 — Disease, Nutrition & Child Health Risk
+
+![Disease, Nutrition and Child Health Risk](01_dashboard/Dashboard%20Images/Page%202.png)
+
+### Page 3 — Healthcare Capacity & Investment
+
+![Healthcare Capacity and Investment](01_dashboard/Dashboard%20Images/Page%203.png)
+
 ## Dashboard pages
 
 ### 1. ASEAN Public Health Overview
@@ -145,6 +159,12 @@ Indicator-specific measures were used because the source measures have different
 
 ```text
 01_dashboard/
+  ├── Dashboard Images/
+  │   ├── Page 1.png
+  │   ├── Page 2.png
+  │   └── Page 3.png
+  └── README.md
+
 02_powerbi/
 03_data/
 04_documentation/
